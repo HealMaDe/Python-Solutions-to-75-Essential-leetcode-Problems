@@ -1,4 +1,4 @@
-# Python-Solutions-to-75-Essential-leetcode-Problems
+# Python Solutions to 75 Essential leetcode Problems
 
 This repository contains my solutions to 75 essential LeetCode problems. LeetCode is a popular online platform that provides a collection of coding challenges to help programmers improve their algorithmic skills. The problems cover various topics and difficulty levels, making it a valuable resource for practicing coding and problem-solving techniques.
 These solutions are implemented in Python and are organized by problem category for easy reference. Each problem solution includes a detailed explanation and the corresponding code.
